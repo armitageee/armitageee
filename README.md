@@ -6,6 +6,6 @@
 - 🔭 Learning DevOps stuff.
 - ♻︎ Love gtbsg, neovim, retro-futuristic anime.
 - ⚡ Love to blame my teammates in FPS games 😈
-<br>
-<br>
+
+
 [![My stats](https://github-readme-stats.vercel.app/api?username=armitageee)](https://github.com/anuraghazra/github-readme-stats)
