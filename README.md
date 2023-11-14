@@ -5,4 +5,7 @@
 - 🤓 I’m currently learning HTML, CSS, Python, and JS.
 - 🔭 Learning DevOps stuff.
 - ♻︎ Love gtbsg, neovim, retro-futuristic anime.
-- ⚡I love to blame my teammates in FPS games 😈
+- ⚡ Love to blame my teammates in FPS games 😈
+<br>
+<br>
+[![My stats](https://github-readme-stats.vercel.app/api?username=armitageee)](https://github.com/anuraghazra/github-readme-stats)
