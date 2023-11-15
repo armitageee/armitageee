@@ -21,7 +21,8 @@ Student, Programmer
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Arch Linux package](https://img.shields.io/archlinux/v/:repository/:architecture/:packageName)
+![Arch Linux package](https://img.shields.io/archlinux/v/core/x86_64/pacman)
+
 
 
 ![streak](https://github-contributor-stats.vercel.app/api?username=armitageee&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
