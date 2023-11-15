@@ -4,10 +4,16 @@
 Некое незримое существо или закон, подобно Длани Господней парящей над миром?
 По крайней мере истинно то, что человек не властен даже над своей волей.
 
-- 🤓 I’m currently learning HTML, CSS, Python, and JS.
-- 🔭 Want to be system architect in the future.
-- ♻︎ Love gtbsg, neovim, retro-futuristic anime.
+```
+$ echo Hi
+Hi
 
+$ uname 
+Andrew
+
+$ whoami
+Student, Programmer
+```
 
 
 ![streak](https://github-contributor-stats.vercel.app/api?username=armitageee&title_color=3498db&text_color=2ecc71&icon_color=3498db&bg_color=00000000&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true)
